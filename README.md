@@ -8,7 +8,7 @@ User can login with their registered credentials.
 
 # Groups
 Add your own groups 
-![alt text](https://github.com/Gkjha/Blink/blob/master/images/one.PNG)
+![alt text](https://github.com/Gkjha/Blink/blob/master/images/groups.PNG)
 
 
 
